@@ -15,7 +15,8 @@
 
 - 📄 Know about my experiences [https://matteoperotta.com/cv-eng/](https://matteoperotta.com/cv-eng/)
 
-<h3 align="left">Connect with me: [https://matteoperotta.com](https://matteoperotta.com) </h3>
+<h3 align="left">Connect with me: </h3> 
+[https://matteoperotta.com](https://matteoperotta.com)
 
 <p align="left">
 </p>
