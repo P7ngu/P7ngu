@@ -9,7 +9,7 @@
 
 - 👯 I’m maintaing an App Store App [Burraco Points](https://apps.apple.com/it/app/burraco-points-taker/id6477158695?l=en-GB)
 
-- 👨‍💻 All of my projects are available at [matteoperotta.com/portfolio](matteoperotta.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://matteoperotta.com/portfolio](https://matteoperotta.com/portfolio)
 
 - 📫 How to reach me **matteoperotta7@gmail.com**
 
