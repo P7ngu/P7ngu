@@ -26,4 +26,4 @@ matteoperotta.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p7ngu&show_icons=true&locale=en" alt="p7ngu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p7ngu&" alt="p7ngu" /></p>
+
