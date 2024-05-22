@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p7ngu" alt="p7ngu" /></a> </p>
 
-- 🔭 I’m currently working on [VisionOS](https://testflight.apple.com/join/xwNZoIrd)
+- 🔭 I’m currently working on [VisionOS](https://github.com/alexvulgo/MoodraApp)
 
 - 🌱 I’m currently learning **RealityKit, ARKit**
 
