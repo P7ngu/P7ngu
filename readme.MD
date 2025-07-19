@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://matteoperotta.com/cv-eng/](https://matteoperotta.com/cv-eng/)
 
 <h3 align="left">Connect with me: </h3> 
-[My LinkedIn](https://linkedin.com/in/MatteoPerotta)
+https://linkedin.com/in/MatteoPerotta
 
 <p align="left">
 </p>
