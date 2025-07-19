@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
 <h3 align="center">A CS student and passionate Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p7ngu" alt="p7ngu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p7ngu&theme=matrix" alt="p7ngu" /></a> </p>
 
 - 🏆 I’ve just won a Web3 hackathon organized by Napuleth, specializing in backend development with Solidity, React, and ScaffoldETH, [Check it out](https://github.com/P7ngu/tarotchained-scaffold)
 
