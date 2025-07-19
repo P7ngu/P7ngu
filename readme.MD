@@ -5,7 +5,7 @@
 
 - 🏆 I’ve just won a Web3 hackathon organized by Napuleth, specializing in backend development with Solidity, React, and ScaffoldETH, [Check it out](https://github.com/P7ngu/tarotchained-scaffold)
 
-- 💻 2+ years of experience in mobile developing with Swift (SwiftUI, UIKit, Combine, Core Data, ARKit, RealityKit, ARKit, MapKit) and 🏆 WWDC '24 SSC Winner
+- 💻 2+ years of experience in mobile developing with Swift (SwiftUI, UIKit, Combine, Core Data, ARKit, RealityKit, ARKit, MapKit) and 🏆 selected as Apple's WWDC '24 SSC Winner
 
 - 🤖  5+ years of experience in Android development Kotlin, Jetpack Compose)
 
