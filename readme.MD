@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p7ngu" alt="p7ngu" /></a> </p>
 
-- 🔭 I’m exploring [VisionOS](https://github.com/alexvulgo/MoodraApp)
+- 🏆 I’ve just won a Web3 hackathon organized by Napuleth, specializing in backend development with Solidity, React, and ScaffoldETH
 
-- 🌱 I’m currently learning **RealityKit, ARKit**
+- 💻 2+ years of experience in mobile developing with Swift (SwiftUI, UIKit, Combine, Core Data, ARKit, RealityKit, ARKit, MapKit) and 🏆 WWDC '24 SSC Winner
 
-- 👯 I’m maintaing an App Store App [Burraco Points](https://apps.apple.com/it/app/burraco-points-taker/id6477158695?l=en-GB)
+- 🤖  5+ years of experience in Android development Kotlin, Jetpack Compose)
+
+- 👯 3000+ downloads on App Store [Burraco Points](https://apps.apple.com/it/app/burraco-points-taker/id6477158695?l=en-GB)
 
 - 👨‍💻 All of my projects are available at [https://matteoperotta.com/portfolio](https://matteoperotta.com/portfolio)
 
