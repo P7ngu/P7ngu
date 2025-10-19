@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p7ngu&theme=matrix" alt="p7ngu" /></a> </p>
 
+Hackathon partecipation count: 2
+(NapulETH, ETHRome 2025)
+
 - 🏆 I’ve just won a Web3 hackathon organized by Napuleth, specializing in backend development with Solidity, React, and ScaffoldETH, [Check it out](https://github.com/P7ngu/tarotchained-scaffold)
 
 - 💻 2+ years of experience in mobile developing with Swift (SwiftUI, UIKit, Combine, Core Data, ARKit, RealityKit, ARKit, MapKit) and 🏆 selected as Apple's WWDC '24 SSC Winner
