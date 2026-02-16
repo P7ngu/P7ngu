@@ -10,9 +10,9 @@ Hackathon partecipation count: 2
 
 - 💻 2+ years of experience in mobile developing with Swift (SwiftUI, UIKit, Combine, Core Data, ARKit, RealityKit, ARKit, MapKit) and 🏆 selected as Apple's WWDC '24 SSC Winner
 
-- 🤖  5+ years of experience in Android development Kotlin, Jetpack Compose)
+- 🤖  5+ years of experience in Android development Kotlin, Jetpack Compose, Flutter)
 
-- 👯 3000+ downloads on App Store [Burraco Points](https://apps.apple.com/it/app/burraco-points-taker/id6477158695?l=en-GB)
+- 👯 6000+ downloads on App Store [Burraco Points](https://apps.apple.com/it/app/burraco-points-taker/id6477158695?l=en-GB)
 
 - 👨‍💻 All of my projects are available at [https://matteoperotta.com/portfolio](https://matteoperotta.com/portfolio)
 
